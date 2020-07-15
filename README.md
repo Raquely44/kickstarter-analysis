@@ -5,7 +5,7 @@ What we wanted to know: Help Louise fund her play Fever which has a budget of 10
 At a glance we can see that plays typically have a successful campaign with a 61.4% success rate; the US campaigns have a success rate of 57.5%.
 
 Looking at the time of year when campains start, we can see that campaigns starting in the months of May and June have move success, and trends down until December. 
-![](images/Outcomes%20based%20on%20Launch%20Data.png)
+![](images/OutcomesbasedonLaunchData.png)
 
 Based on the Edinburgh Reserch, we can see these Averaged data points 
 - Goal was $2,0000
