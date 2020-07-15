@@ -5,10 +5,10 @@ What we wanted to know: Help Louise fund her play Fever which has a budget of 10
 At a glance we can see that plays typically have a successful campaign. From the Worksheet labeled "Parent Category Outcomes" we can see the US theater campaigns have a success rate of 57.5% and the "Subcategory Statistics" worksheet show US Plays campaigns have a 61.4% success rate.
 
 <img src="Images/Picture1.png" width="400">
-*Parent Catagory chart*
+Parent Catagory chart
 
 <img src="Images/SubcategoryStats.png" width="400">
-*Subcategory Chart*
+Subcategory Chart
 
 Looking at the time of year when campains start, we can see that campaigns starting in the months of May and June have move success, and trends down until December. 
 
