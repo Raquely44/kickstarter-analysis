@@ -23,6 +23,7 @@ Based on the Edinburgh Reserch, we can see these Averaged data points
 Our Descriptive stats there is a large difference between the mean and IQR of goal, which suggest some outliers in out data that is pushing out mean up. The same can be seen with the pledge amounts, the mean is closer to the upper Quartile. In addition to this, the standard deviation is high which means the values are wide spread from the mean.
 
 In the graph below we can see that ther are many data points that are above the upper quartile which are considered outliers and skew our data. 
+
 <img src="Images/USPlays.png" width="400">
 
 __I would suggest filtering plays by goal ranking to understand success of a campaign based on category and goal amount.__
