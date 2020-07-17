@@ -12,7 +12,7 @@ I looked at Theater outcomes based on the month is was launched, which can also 
 ![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes BAsed on Goals
-Based on earlier analysis, we were able to determine that there were outliers that skewed our data, showing the average to be closer to the upper (qualiteral) as shown in the descriptive stats workbook. [https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Descriptive%20Stats.png] Instead of looking at all plays soley based on subcatagory and country, I catagorized plays based on their goal amount. Then calculted the successful, failed, and canceled percentage and created a line graph as a visual representation of the data.
+Based on earlier analysis, we were able to determine that there were outliers that skewed our data, showing the average to be closer to the upper quartile as shown in the descriptive stats workbook. [https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Descriptive%20Stats.png] Instead of looking at all plays soley based on subcatagory and country, I catagorized plays based on their goal amount. Then calculted the successful, failed, and canceled percentage and created a line graph as a visual representation of the data.
 ![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
