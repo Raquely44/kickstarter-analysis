@@ -11,7 +11,7 @@ The purpose of this exercise was to compare Louise's play *Fever* to other campa
 I looked at Theater outcomes based on the month it was launched, which can also be filtered by year. The graph shows each months' Successful, Failed, and Canceled Theater campaigns' by count. 
 ![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png](Resources/Theater_Outcomes_vs_Launch.png)
 
-### Analysis of Outcomes BAsed on Goals
+### Analysis of Outcomes Based on Goals
 Based on an earlier analysis, we were able to determine that there were outliers that skewed our data because the average is closer to the upper quartile as shown in the descriptive stats workbook. [https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Descriptive%20Stats.png] Instead of looking at all plays solely based on subcategory and country, I categorized plays based on their goal amount. Then calculated the Successful, Failed, and Canceled percentage and created a line graph as a visual representation of the data.
 ![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png](Resources/Outcomes_vs_Goals.png)
 
