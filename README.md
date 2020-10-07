@@ -26,10 +26,10 @@ A challenge with this data was formating the dates from Epoch to a date format t
 - I would recommend determining the length of the campaign to better understand campaign success for forecasting shown as a line chart. I would also recommend analyzing how many backers it took to fund campaigns based on category and goal amount to understand the interest of our audience shown as a bar graph.  
 
 ---
-## Additonal visualizations
-### Additonal graph showing campaign outcome based on Parent Category
+### Additonal visualizations
+Additonal graph showing campaign outcome based on Parent Category
 ![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Picture1.png](Resources/Picture1.png) 
 
-### Filterable pivot table showing campaigns listed in the theater category and their successful/failed/canceled/live outcomes
+Filterable pivot table showing campaigns listed in the theater category and their successful/failed/canceled/live outcomes
 ![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Pivot.png](Resources/Pivot.png)
 
