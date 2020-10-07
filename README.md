@@ -3,7 +3,7 @@
 ---
 ## Overview of Project
 ### Purpose
-The purpose of this exercise was to compare Louise's play *Fever* to other 1,600 campaigns with similar launch dates and fundraising goals. We also would like to visualize campaign outcomes based on their launch date and funding goals. As a result, I hope to provide better insight into these two factors that have yielded successful campaigns in the past.
+The purpose of this exercise was to compare Louise's play *Fever* to other 4,100 campaigns with similar launch dates and fundraising goals. We also would like to visualize campaign outcomes based on their launch date and funding goals. As a result, I hope to provide better insight into these two factors that have yielded successful campaigns in the past.
 
 ---
 ## Analysis and Challenges
