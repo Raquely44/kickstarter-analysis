@@ -3,7 +3,7 @@
 ---
 ## Overview of Project
 ### Purpose
-The purpose of this exercise was to compare Louise's play *Fever* to other campaigns with similar launch dates and fundraising goals. We also would like to visualize campaign outcomes based on their launch date and funding goals. As a result, I hope to provide better insight into these two factors that have yielded successful campaigns in the past.
+The purpose of this exercise was to compare Louise's play *Fever* to other 1,600 campaigns with similar launch dates and fundraising goals. We also would like to visualize campaign outcomes based on their launch date and funding goals. As a result, I hope to provide better insight into these two factors that have yielded successful campaigns in the past.
 
 ---
 ## Analysis and Challenges
@@ -24,3 +24,12 @@ A challenge with this data was formating the dates from Epoch to a date format t
 - The most successful goal amount is less than $1,000 and the least is $45,000 to $49,999. It is interesting to note that the second most successful campaign by goal amount is $35,000 to $39,999 and $40,000 to $44,999 range. 
 - A limitation of the data is that we do not know if all campaigns were marketed using the same platforms and how much money was spent on each campaign. This can have a major impact on how successful the campaign was. 
 - I would recommend determining the length of the campaign to better understand campaign success for forecasting shown as a line chart. I would also recommend analyzing how many backers it took to fund campaigns based on category and goal amount to understand the interest of our audience shown as a bar graph.  
+
+---
+## Additonal visualizations
+### Additonal graph showing campaign outcome based on Parent Category
+![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Picture1.png](Resources/Picture1.png) 
+
+### Filterable pivot table showing campaigns listed in the theater category and their successful/failed/canceled/live outcomes
+![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Pivot.png](Resources/Pivot.png)
+
