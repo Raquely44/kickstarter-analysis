@@ -28,8 +28,8 @@ A challenge with this data was formating the dates from Epoch to a date format t
 ---
 ### Additonal visualizations
 Additonal graph showing campaign outcome based on Parent Category
-![https://github.com/Raquely44/kickstarter-analysis/blob/master/Images/Picture1.png](Resources/Picture1.png) 
+![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Picture1.png](Resources/Picture1.png) 
 
 Filterable pivot table showing campaigns listed in the theater category and their successful/failed/canceled/live outcomes
-![https://github.com/Raquely44/kickstarter-analysis/blob/master/Images/Pivot.png](Resources/Pivot.png)
+![https://github.com/Raquely44/kickstarter-analysis/blob/master/Resources/Pivot.png](Resources/Pivot.png)
 
